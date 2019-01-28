@@ -1,0 +1,37 @@
+#progLangDiv, #lessonDiv{
+    margin-top: 20px;
+}
+
+#selectOptions, option{
+    margin-left:25px;
+    width: 230px;
+}
+
+h1{
+    margin-left:25px;
+    font-weight: bold;
+    font-size: 30pt;
+    font-family: Raleway;
+}
+.formTitle{
+    margin-left:25px;
+    font-weight: bold;
+    font-size: 20pt;
+    font-family: Raleway;
+}
+label{
+    max-width: 250px;
+    margin-left:25px;
+    padding-right:20px;
+    height: 25px;
+    margin-bottom: 15px;
+
+}
+
+input{
+    left: 230px;
+    position: absolute;
+    height: 25px;
+    margin-bottom: 15px;
+    width: 250px;
+}
